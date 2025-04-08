@@ -31,7 +31,6 @@ Em vez de preencher valores faltantes com média, mediana ou KNN, usamos a **dis
 
 - Comparação entre os valores imputados e os originais (removidos) foi feita com:
   - Média e desvio padrão
-  - Teste de Kolmogorov-Smirnov
   - Comparação visual das distribuições
 
 O objetivo **não era recuperar os valores exatos**, mas sim **reproduzir a distribuição original dos dados** com fidelidade estatística.
