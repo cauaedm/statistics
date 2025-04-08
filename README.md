@@ -4,9 +4,6 @@
 ## Sumário
 
 - [📊 Imputação de Dados com KDE e Inversa da CDF](#-imputação-de-dados-com-kde-e-inversa-da-cdf-sample-from-distributionipynb)
-  - [Ideia Central](#ideia-central)
-  - [Etapas](#etapas)
-  - [Avaliação](#avaliação)
 
 ---
 
