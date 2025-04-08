@@ -38,3 +38,4 @@ Em vez de preencher valores faltantes com média, mediana ou KNN, usamos a **dis
   - Comparação visual das distribuições
 
 O objetivo **não era recuperar os valores exatos**, mas sim **reproduzir a distribuição original dos dados** com fidelidade estatística.
+![image](https://github.com/user-attachments/assets/316c12cd-6d2d-467a-a4ed-d50dc07ea822)
